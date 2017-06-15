@@ -1,0 +1,28 @@
+---
+_options:
+  partials:
+    - app/partials/head.static.hbs
+    - app/partials/header.static.hbs
+    - app/partials/footer.static.hbs
+    - app/partials/tonic-logo.static.hbs
+    - app/partials/tonic-logo-text.static.hbs
+---
+<!DOCTYPE html>
+<html>
+  {{>head}}
+  <body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TFLGX7J"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <div class="m-scene" id="main">
+      <div id="page-container" {{#if page-class}}class="{{page-class}}"{{/if~}} {{#if page-type}}data-page-type="{{page-type}}"{{/if~}}>
+        {{>header}}
+        <main>
+          {{content}}
+          {{>footer}}
+        </main>
+      </div>
+    </div>
+  </body>
+</html>
