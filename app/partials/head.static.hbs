@@ -1,0 +1,28 @@
+<title>{{#if title}}{{title}}{{else}}Care 4 Today{{/if}}</title>
+
+{{!-- <meta property="og:image" content="http://tonicdesign.com/images/ogtonic.png"/>
+<meta property="og:title" content="{{#if og-title}}{{og-title}}{{else}}Tonic Design Co.{{/if}}" />
+<meta property="og:description" content="{{#if og-description}}{{og-description}}{{else}}Tonic Design Co. is a technology agency committed to imagining and producing extraordinary digital products.{{/if}}" />
+<meta property="og:url" content="{{#if og-url}}{{og-url}}{{else}}http://tonicdesign.com/{{/if}}"/>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"/>
+<meta name="description" content="Tonic Design Co. is a technology agency committed to imagining and producing extraordinary digital products.">
+<meta name="keywords" content="Tonic Design, Technology Agency, Design, Development"> --}}
+
+<link rel="stylesheet" href="/css/style.css" type="text/css"/>
+{{!-- <link rel="icon" href="/images/favicon.png" type="image/ico"> --}}
+
+<script type="text/javascript">
+  window.onload = function() {
+    $.get('//fonts.googleapis.com/css?family=Roboto:300,400,500,700', function (data) {
+      $('head').append($('<style>').html(data));
+    });
+  }
+</script>
+<script src="/js/app.js" onload="require('initialize');" ></script>
+<script type="text/javascript">
+  var tonic = {
+    contextManager: null
+  };
+  var dataLayer = [];
+</script>
