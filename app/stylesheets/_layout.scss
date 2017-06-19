@@ -6,19 +6,6 @@ html, body {
   margin: 0;
   padding: 0;
 }
-.a-spot-section {
-  height: 65vh;
-  .container-condensed,
-  .container {
-    top: 50%;
-    transform: translateY(-50%);
-  }
-  .column, .columns {
-    &:last-child {
-      margin-bottom: 0;
-    }
-  }
-}
 section {
   position: relative;
   width: 100%;

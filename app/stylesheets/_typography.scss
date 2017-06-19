@@ -184,19 +184,6 @@ sup {
   position: relative;
   font-weight: $medium;
 }
-.a-spot-copy {
-  font-weight: $normal;
-  font-size: 1.5rem;
-  line-height: 2.8rem;
-  @media #{$min-768} {
-    font-size: 2.1rem;
-    line-height: 3.5rem;
-  }
-  @media #{$min-1280} {
-    font-size: 2.5rem;
-    line-height: 4.2rem;
-  }
-}
 .caption-copy {
   font-weight: $normal;
   font-size: 1.3rem;
