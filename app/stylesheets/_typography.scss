@@ -126,35 +126,6 @@ a {
   color: inherit;
   position: relative;
 }
-.animated-underline {
-  border-bottom: 1px solid rgba(66, 66, 66, .25); // $black = rgba(66,66,66)
-  &:before,
-  &:after {
-    content: '';
-    display: block;
-    position: absolute;
-    bottom: -1px;
-    height: 1px;
-    width: 0;
-  }
-  &:before {
-    left: 0;
-    transition: width .25s ease;
-  }
-  &:after {
-    right: 0;
-    background-color: $black;
-    transition: width .25s ease;
-  }
-  &:hover:before {
-    width: 100%;
-    background-color: $black;
-  }
-  &:hover:after {
-    width: 100%;
-    background-color: transparent !important;
-  }
-}
 ul ul, ul ol, ol ol, ol ul {
   margin: 1.5rem 0 1.5rem 3rem;
   font-size: 90%;
@@ -183,22 +154,6 @@ sup {
   line-height: 0;
   position: relative;
   font-weight: $medium;
-}
-.caption-copy {
-  font-weight: $normal;
-  font-size: 1.3rem;
-  line-height: 2.0rem;
-}
-.list-copy {
-  font-weight: $normal;
-  font-size: 1.5rem;
-  line-height: 3.0rem;
-}
-.error-copy {
-  font-weight: $normal;
-  font-size: 1.1rem;
-  line-height: 1.6rem;
-  color: $error;
 }
 // SET SPECIFIC COLOR
 //-----------------------------------------------------------------
