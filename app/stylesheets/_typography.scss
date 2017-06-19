@@ -6,7 +6,7 @@ body {
   font-weight: $normal;
   font-size: 1.5rem;
   line-height: 2.8rem;
-  font-family: $karbon-bold;
+  font-family: $karbon-regular;
   color: $black;
   letter-spacing: 1px;
   @media #{$min-768} {
@@ -17,12 +17,6 @@ body {
     font-size: 1.8rem;
     line-height: 3.3rem;
   }
-}
-::selection {
-  background: rgba(100, 255, 218, .5);
-}
-::-moz-selection {
-  background: rgba(100, 255, 218, .5);
 }
 h1, h2, h3, h4, h5, h6, p {
   margin-top: 0;
