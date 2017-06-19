@@ -1,0 +1,16 @@
+.aspot-image {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  @include retina-background-image("/images/FPO-aspot-image", "jpg");
+  height: 600px;
+}
+
+.aspot-content {
+  font-family: $karbon-medium;
+  color: $blue;
+  background-color: rgba(255, 255, 255, .9);
+  border-radius: 10px;
+  padding: 50px;
+  height: 100%;
+}
