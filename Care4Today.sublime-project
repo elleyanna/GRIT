@@ -2,7 +2,7 @@
  "folders":
   [
     {
-      "name": "Care 4 Today",
+      "name": "Care4Today",
       "path": ".",
       "folder_exclude_patterns": ["public", "node_modules"],
       "follow_symlinks": true
