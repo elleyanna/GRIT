@@ -1,4 +1,4 @@
-# Care 4 Today
+# Care4Today
 
 * This HTML5 application, built with [Brunch](http://brunch.io).
 

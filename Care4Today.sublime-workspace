@@ -1,0 +1,975 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"require\t(brunch-config.js)"
+			],
+			[
+				"sc",
+				"scripts\t(package.json)"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"border",
+				"border-right"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"text",
+				"text-center"
+			],
+			[
+				"mi",
+				"middle"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"tab",
+				"table-cell"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"ver",
+				"vertical-align"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"fun",
+				"function with name"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"function",
+				"function with name"
+			],
+			[
+				"pr",
+				"prevBtn"
+			],
+			[
+				"next",
+				"nextBtn"
+			],
+			[
+				"conso",
+				"console.log()"
+			],
+			[
+				"fone",
+				"font-weight"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"or",
+				"orderMode"
+			],
+			[
+				"pro",
+				"projections"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"remov",
+				"removeSprint"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"up",
+				"updatedSprints"
+			],
+			[
+				"employ",
+				"employeeId"
+			],
+			[
+				"emplo",
+				"employee\t(DepartmentTable.js)"
+			],
+			[
+				"onE",
+				"onEmployeeAddHoursInput"
+			],
+			[
+				"is",
+				"isRequired"
+			],
+			[
+				"fu",
+				"func"
+			],
+			[
+				"Defa",
+				"defaultView: WindowProxy\tDocument"
+			],
+			[
+				"select",
+				"selectedEmployee"
+			],
+			[
+				"sprin",
+				"sprintData"
+			],
+			[
+				"empl",
+				"employeeSprint"
+			],
+			[
+				"sp",
+				"sprint"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"number",
+				"random(): number\tMath"
+			],
+			[
+				"get",
+				"getSprintTable"
+			],
+			[
+				"spr",
+				"sprintNumber"
+			],
+			[
+				"map",
+				"map( callbackfn: Function, thisArg?: any ): Array\tArray"
+			],
+			[
+				"n",
+				"num\t(DepartmentTableHeader.js)"
+			],
+			[
+				"Pr",
+				"PropTypes"
+			],
+			[
+				"de",
+				"departments"
+			],
+			[
+				"departmen",
+				"departments"
+			],
+			[
+				"sele",
+				"selectedEmployee"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"Tot",
+				"Totals"
+			],
+			[
+				"ac",
+				"actuals\t(employees.json)"
+			],
+			[
+				"sel",
+				"selectedEmployee"
+			],
+			[
+				"em",
+				"employeeSelect"
+			],
+			[
+				"ta",
+				"target"
+			],
+			[
+				"on",
+				"onEmployeeAddHours"
+			],
+			[
+				"departe",
+				"department"
+			],
+			[
+				"dep",
+				"departments"
+			],
+			[
+				"selected",
+				"selectedEmployees"
+			],
+			[
+				"e",
+				"employeeOption"
+			],
+			[
+				"depart",
+				"departments"
+			],
+			[
+				"emp",
+				"employeeSelect"
+			],
+			[
+				"d",
+				"department"
+			],
+			[
+				"depa",
+				"department"
+			],
+			[
+				"De",
+				"departmentTable"
+			],
+			[
+				"p",
+				"PropTypes"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"ce",
+				"cellValue"
+			],
+			[
+				"cell",
+				"cellName"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/layouts/main.static.hbs",
+			"settings":
+			{
+				"buffer_size": 839,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/pages/styleguide/index.static.hbs",
+			"settings":
+			{
+				"buffer_size": 7360,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/pages/index.static.hbs",
+			"settings":
+			{
+				"buffer_size": 4711,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "brunch-config.js",
+			"settings":
+			{
+				"buffer_size": 1948,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/assets/robots.txt",
+			"settings":
+			{
+				"buffer_size": 72,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "PAC",
+		"selected_items":
+		[
+			[
+				"PAC",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"INPS",
+				"Package Control: Install Package"
+			],
+			[
+				"brows",
+				"Preferences: Browse Packages"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"packin",
+				"Package Control: Install Package"
+			],
+			[
+				"colo",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Install Package Control"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/elleannadwyer/Documents/Tonic/jjhws-c4t-web",
+		"/Users/elleannadwyer/Documents/Tonic/jjhws-c4t-web/app",
+		"/Users/elleannadwyer/Documents/Tonic/jjhws-c4t-web/app/assets",
+		"/Users/elleannadwyer/Documents/Tonic/jjhws-c4t-web/app/layouts",
+		"/Users/elleannadwyer/Documents/Tonic/jjhws-c4t-web/app/pages",
+		"/Users/elleannadwyer/Documents/Tonic/jjhws-c4t-web/app/pages/styleguide",
+		"/Users/elleannadwyer/Documents/Tonic/jjhws-c4t-web/vendor"
+	],
+	"file_history":
+	[
+		"/Users/elleannadwyer/Documents/Tonic/jjhws-c4t-web/app/partials/analytics.static.hbs",
+		"/Users/elleannadwyer/Documents/Tonic/jjhws-c4t-web/app/pages/readme.static.hbs",
+		"/Users/elleannadwyer/Documents/Tonic/jjhws-c4t-web/app/partials/head.static.hbs",
+		"/Users/elleannadwyer/Documents/Tonic/jjhws-c4t-web/app/partials/nav.static.hbs",
+		"/Users/michaelgreenberg/Documents/Workspace/brunchio/vendor/vendor.js",
+		"/Users/michaelgreenberg/Documents/Workspace/brunchio/app/initialize.js",
+		"/Users/michaelgreenberg/Documents/Workspace/brunchio/app/partials/header.static.hbs",
+		"/Users/michaelgreenberg/Documents/Workspace/brunchio/app/scripts/component.js",
+		"/Users/michaelgreenberg/Documents/Workspace/brunchio/TonicWebsite.sublime-project",
+		"/Users/michaelgreenberg/Documents/Workspace/brunchio/package.json",
+		"/Users/michaelgreenberg/Documents/Workspace/brunchio/brunch-config.js",
+		"/Users/michaelgreenberg/Documents/Workspace/brunchio/brunch-config.coffee",
+		"/Users/michaelgreenberg/Documents/Workspace/brunchio/app/stylesheets/main.scss",
+		"/Users/michaelgreenberg/Documents/Workspace/brunchio/README.md",
+		"/Users/michaelgreenberg/Documents/Workspace/brunchio/app/README.md",
+		"/Users/michaelgreenberg/Documents/Workspace/brunchio/app/stylesheets/_variables.scss",
+		"/Users/michaelgreenberg/Documents/Workspace/brunchio/app/stylesheets/_typography.scss",
+		"/Users/michaelgreenberg/Documents/Workspace/brunchio/app/layouts/main.static.hbs",
+		"/Users/michaelgreenberg/Documents/Workspace/brunchio/app/pages/readme/readme.static.hbs",
+		"/Users/michaelgreenberg/Documents/Workspace/TonicWebsiteRedesign/package.json",
+		"/Users/michaelgreenberg/Documents/Workspace/TonicWebsiteRedesign/app/templates/_header.hbs",
+		"/Users/michaelgreenberg/Documents/Workspace/TonicWebsiteRedesign/brunch-config.js",
+		"/Users/michaelgreenberg/Documents/Workspace/TonicWebsiteRedesign/app/assets/index.html",
+		"/Users/michaelgreenberg/Documents/Workspace/TonicWebsiteRedesign/app/templates/_footer.hbs",
+		"/Users/michaelgreenberg/Documents/Workspace/TonicWebsiteRedesign/app/assets/index.hbs",
+		"/Users/michaelgreenberg/Documents/Workspace/TonicWebsiteRedesign/_header.hbs",
+		"/Users/michaelgreenberg/Documents/Workspace-Freelance/Harverst/style.css",
+		"/Users/michaelgreenberg/Documents/Workspace/TonicWebsiteRedesign/app/templates/home.hbs.js",
+		"/Users/michaelgreenberg/Documents/Workspace/TonicWebsiteRedesign/app/views/templates/home.jade",
+		"/Users/michaelgreenberg/Documents/Workspace/TonicWebsiteRedesign/app/scripts/initialize.js",
+		"/Users/michaelgreenberg/Documents/Workspace/TonicWebsiteRedesign/app/assets/contact/index.html",
+		"/Users/michaelgreenberg/Documents/Workspace/TonicWebsiteRedesign/.gitignore",
+		"/Users/michaelgreenberg/Documents/Workspace/TonicWebsiteRedesign/app/styles/_reset.scss",
+		"/Users/michaelgreenberg/Documents/Workspace/TonicWebsiteRedesign/app/styles/_typography.scss",
+		"/Users/michaelgreenberg/Documents/Workspace/TonicWebsiteRedesign/app/styles/_variables.scss",
+		"/Users/michaelgreenberg/Documents/Workspace/TonicWebsiteRedesign/app/styles/app.scss",
+		"/Users/michaelgreenberg/Documents/Workspace/TonicWebsiteRedesign/app/scripts/file1.js",
+		"/Users/michaelgreenberg/Documents/Workspace/TonicWebsiteRedesign/app/vendor/vendor.js",
+		"/Users/michaelgreenberg/Documents/Workspace/TonicWebsiteRedesign/untitled folder/app/assets/index.html",
+		"/Users/michaelgreenberg/Documents/Workspace/TonicWebsiteRedesign/app/scripts/test.js",
+		"/Users/michaelgreenberg/Documents/Workspace/TonicWebsiteRedesign/untitled folder/app/styles/_reset.css.sass",
+		"/Users/michaelgreenberg/Documents/Workspace/TonicWebsiteRedesign/TonicWebsite.sublime-project",
+		"/Users/michaelgreenberg/Documents/Workspace/TonicWebsiteRedesign/app/initialize.js",
+		"/Users/michaelgreenberg/Documents/Workspace/TonicWebsiteRedesign/app/scripts/vendor/initialize.js",
+		"/Users/michaelgreenberg/Documents/Workspace/TonicWebsiteRedesign/public/index.html",
+		"/Users/michaelgreenberg/Documents/Workspace/TonicWebsiteRedesign/README.md",
+		"/Users/michaelgreenberg/Documents/Workspace-Freelance/Eventions Productions/signature/signature2.html",
+		"/Users/michaelgreenberg/Documents/Workspace-Freelance/Eventions Productions/signature/signature.html",
+		"/Users/michaelgreenberg/Documents/Workspace-Freelance/Harverst/email /nav.html",
+		"/Users/michaelgreenberg/Desktop/Calculate.html",
+		"/Users/michaelgreenberg/Documents/Workspace-Freelance/Harverst/email /image_layout.html",
+		"/Users/michaelgreenberg/Documents/Workspace-Freelance/Harverst/email /harvest-footer.html",
+		"/Users/michaelgreenberg/Documents/Workspace-Freelance/Harverst/opentable",
+		"/Users/michaelgreenberg/Documents/Workspace-Freelance/Harverst/gatherhere.html",
+		"/Users/michaelgreenberg/Documents/Workspace-Freelance/Harverst/backup 11:29:16/public_html/giftcards/index.php",
+		"/Users/michaelgreenberg/Documents/Workspace-Freelance/Harverst/backup 11:29:16/public_html/wp-content/themes/harvest2/reservations.php",
+		"/Users/michaelgreenberg/Desktop/carousel.js",
+		"/Users/michaelgreenberg/Desktop/Calculate2.html",
+		"/Users/michaelgreenberg/Documents/Workspace-Freelance/MeAndTheGirls/style.css",
+		"/untitled.js",
+		"/Users/michaelgreenberg/Desktop/sort.js",
+		"/Users/michaelgreenberg/Downloads/Calculate.html",
+		"/Users/michaelgreenberg/Downloads/homepage.php",
+		"/Users/michaelgreenberg/Documents/Workspace/Tonic-Bodies-Over-Time/src/components/SelectInput/SelectInput.js",
+		"/Users/michaelgreenberg/Documents/Workspace/Tonic-Bodies-Over-Time/src/containers/TableView/TableView.js",
+		"/Users/michaelgreenberg/Documents/Workspace/Tonic-Bodies-Over-Time/src/components/DepartmentTableHeader/DepartmentTableHeader.js",
+		"/Users/michaelgreenberg/Documents/Workspace/Tonic-Bodies-Over-Time/src/reducers/Reducer-Manipulator.js",
+		"/Users/michaelgreenberg/Documents/Workspace/Tonic-Bodies-Over-Time/src/reducers/Reducer-Employees.js",
+		"/Users/michaelgreenberg/Documents/Workspace/Tonic-Bodies-Over-Time/src/actions/index.js",
+		"/Users/michaelgreenberg/Documents/Workspace/Tonic-Bodies-Over-Time/src/data/employeesSprints.json",
+		"/Users/michaelgreenberg/Documents/Workspace/Tonic-Bodies-Over-Time/src/index.js",
+		"/Users/michaelgreenberg/Documents/Workspace/Tonic-Bodies-Over-Time/src/components/DepartmentTable/DepartmentTable.js",
+		"/Users/michaelgreenberg/Documents/Workspace/Tonic-Bodies-Over-Time/src/components/EmployeeTable/EmployeeTable.js",
+		"/Users/michaelgreenberg/Documents/Workspace/Tonic-Bodies-Over-Time/public/index.html",
+		"/Users/michaelgreenberg/Documents/Workspace/Tonic-Bodies-Over-Time/src/index.css",
+		"/Users/michaelgreenberg/Documents/Workspace/Tonic-Bodies-Over-Time/README.md",
+		"/Users/michaelgreenberg/Documents/Workspace/Tonic-Bodies-Over-Time/src/components/DepartmentTableFooter/DepartmentTableFooter.js",
+		"/Users/michaelgreenberg/Documents/Workspace/Tonic-Bodies-Over-Time/Tonic-Bodies-Over-Time.sublime-project",
+		"/Users/michaelgreenberg/Documents/Workspace/Tonic-Bodies-Over-Time/src/data/employees.json",
+		"/Users/michaelgreenberg/Documents/Workspace/Tonic-Bodies-Over-Time/src/containers/App/App.css",
+		"/Users/michaelgreenberg/Documents/Workspace/Tonic-Bodies-Over-Time/src/containers/TableView/TableView.css",
+		"/Users/michaelgreenberg/Documents/Workspace/Tonic-Bodies-Over-Time/src/reducers/index.js",
+		"/Users/michaelgreenberg/Documents/Workspace/Tonic-Bodies-Over-Time/src/containers/App/App.js",
+		"/Users/michaelgreenberg/Documents/Workspace/Tonic-Bodies-Over-Time/build/employees.json",
+		"/Users/michaelgreenberg/Documents/Workspace/Tonic-Bodies-Over-Time/node_modules/react-scripts/node_modules/node-notifier/README.md",
+		"/Users/michaelgreenberg/Documents/Workspace/Tonic-Bodies-Over-Time/src/components/Sprints/Sprints.js",
+		"/Users/michaelgreenberg/Documents/Workspace/Tonic-Bodies-Over-Time/src/components/Totals/Totals.js",
+		"/Users/michaelgreenberg/Documents/Workspace/Tonic-Bodies-Over-Time/src/components/Counter/Counter.js",
+		"/Users/michaelgreenberg/Documents/Workspace/ANF-Rapid-Prototyping/serverless-graphql-anf/anf/node_modules/aws4/aws4.js",
+		"/Users/michaelgreenberg/Documents/Workspace/ANF-Rapid-Prototyping/serverless-graphql-anf/.webpack/handler.js",
+		"/Users/michaelgreenberg/Documents/Workspace/ANF-Rapid-Prototyping/serverless-graphql-anf/anf/node_modules/aws4/README.md",
+		"/Users/michaelgreenberg/Documents/Workspace/Tonic-Bodies-Over-Time/node_modules/react-scripts/node_modules/bluebird/js/browser/bluebird.js",
+		"/Users/michaelgreenberg/Documents/Workspace/Tonic-Bodies-Over-Time/src/reducers/Reducer-Employee-Select.js",
+		"/Users/michaelgreenberg/Documents/Workspace/Tonic-Bodies-Over-Time/src/reducers/Reducer-Hours.js",
+		"/Users/michaelgreenberg/Documents/Workspace/Tonic-Bodies-Over-Time/src/reducers/Reducer-Count.js",
+		"/Users/michaelgreenberg/Documents/Workspace/Tonic-Bodies-Over-Time/src/constants/ActionTypes.js",
+		"/Users/michaelgreenberg/Documents/Workspace/Tonic-Bodies-Over-Time/src/components/TableView/TableView.css",
+		"/Users/michaelgreenberg/Documents/Workspace/Tonic-Bodies-Over-Time/package.json",
+		"/Users/michaelgreenberg/Documents/Workspace/Tonic-Bodies-Over-Time/node_modules/fsevents/node_modules/commander/index.js",
+		"/Users/michaelgreenberg/Documents/Workspace/Tonic-Bodies-Over-Time/src/components/TableView/TableView.js",
+		"/Users/michaelgreenberg/Documents/Workspace/Tonic-Bodies-Over-Time/src/reducers/Reducer-EmployeesGet.js",
+		"/Users/michaelgreenberg/Documents/Workspace/Tonic-Bodies-Over-Time/src/components/App/App.js",
+		"/Users/michaelgreenberg/Documents/Workspace/Tonic-Bodies-Over-Time/node_modules/axios/dist/axios.js",
+		"/Users/michaelgreenberg/Documents/Workspace/Tonic-Bodies-Over-Time/src/reducers/employees.json"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"",
+			"/Users/michaelgreenberg/Documents/Workspace/TonicWebsiteRedesign/app/assets",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Bitters",
+			"layout",
+			"span-columns",
+			"span-columns(6",
+			"'",
+			"brunch-with-cocktails",
+			"brunch watch -",
+			"hello",
+			"15hello",
+			"current-nav-item",
+			"{{nav",
+			"livereload",
+			"{\n",
+			"extend",
+			"include",
+			"Initialized app",
+			"initialize",
+			"$/,",
+			"},\n",
+			"bitter",
+			"blue",
+			"blue-light",
+			"babel",
+			"<span clas",
+			"></a>",
+			"a h",
+			"&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<",
+			"style=\"white-space: nowrap\"",
+			"href",
+			"&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;",
+			"addPercentageSymbol",
+			"%",
+			"replace(/(\\d)(?=(\\d\\d\\d)+(?!\\d))/g",
+			".replace('%','')",
+			"g",
+			"'%'",
+			"TaxRate",
+			"e\" + i).value",
+			".value",
+			"DetailsDiv",
+			"showdetails",
+			"Annualsavings",
+			"DetailsDiv",
+			"TaxRate1",
+			"value=",
+			"value=\"",
+			"value=\"1",
+			"value=\"",
+			"TaxRate",
+			"value",
+			"TaxRate",
+			"taxRat",
+			"'$ ' +",
+			"TaxRate2",
+			" Tax Rate",
+			";\n",
+			"4.5px",
+			"width=\"49%\"",
+			"padding: 9px;m",
+			"padding: 9px",
+			"width=\"50%\"",
+			"idth=\"100%\"",
+			"width=\"100%\"",
+			"width=\"",
+			"width=\"273\"",
+			"<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\" class=\"mcnImageGroupBlock\" style=\"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;\">\n    <tbody class=\"mcnImageGroupBlockOuter\">\n        \n            <tr>\n                <td valign=\"top\" style=\"padding: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;\" class=\"mcnImageGroupBlockInner\">\n                    \n                    <table align=\"left\" width=\"273\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"mcnImageGroupContentContainer\" style=\"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;\">\n                            <tbody><tr>\n                                <td class=\"mcnImageGroupContent\" valign=\"top\" style=\"padding-left: 9px;padding-top: 0;padding-bottom: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;\">\n                                \n                                    \n                                        <img alt=\"\" src=\"https://gallery.mailchimp.com/c6bac8bfe24d26a2cebfe24cd/images/6f145f68-7769-422c-b150-640e90c8718f.jpg\" width=\"264\" style=\"max-width: 600px;padding-bottom: 0;border: 0;height: auto;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;vertical-align: bottom;\" class=\"mcnImage\">\n                                    \n                                \n                                </td>\n                            </tr>\n                        </tbody></table>\n                    \n                    <table align=\"right\" width=\"273\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"mcnImageGroupContentContainer\" style=\"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;\">\n                            <tbody><tr>\n                                <td class=\"mcnImageGroupContent\" valign=\"top\" style=\"padding-right: 9px;padding-top: 0;padding-bottom: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;\">\n                                \n                                    \n                                        <img alt=\"\" src=\"https://gallery.mailchimp.com/c6bac8bfe24d26a2cebfe24cd/images/6f145f68-7769-422c-b150-640e90c8718f.jpg\" width=\"264\" style=\"max-width: 600px;padding-bottom: 0;border: 0;height: auto;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;vertical-align: bottom;\" class=\"mcnImage\">\n                                    \n                                \n                                </td>\n                            </tr>\n                        </tbody></table>\n                    \n                </td>\n            </tr>\n        \n    </tbody>\n</table>",
+			"946d46",
+			"radius",
+			"946d46",
+			"addEventListener",
+			"this",
+			"processScroll",
+			"elementInViewport",
+			"processScroll",
+			"query",
+			"images",
+			"getBoundingClientRect",
+			"elementInViewport",
+			"query",
+			"images",
+			"processScroll",
+			"<div class=\"fusion-button-wrapper fusion-aligncenter\">\n\t<style type=\"text/css\" scoped=\"scoped\">.fusion-button.button-4 .fusion-button-text, .fusion-button.button-4 i {color:#946d46;}.fusion-button.button-4 {border-width:1px;border-color:#946d46;}.fusion-button.button-4 .fusion-button-icon-divider{border-color:#946d46;}.fusion-button.button-4:hover .fusion-button-text, .fusion-button.button-4:hover i,.fusion-button.button-4:focus .fusion-button-text, .fusion-button.button-4:focus i,.fusion-button.button-4:active .fusion-button-text, .fusion-button.button-4:active{color:#61472e;}.fusion-button.button-4:hover, .fusion-button.button-4:focus, .fusion-button.button-4:active{border-width:1px;border-color:#61472e;}.fusion-button.button-4:hover .fusion-button-icon-divider, .fusion-button.button-4:hover .fusion-button-icon-divider, .fusion-button.button-4:active .fusion-button-icon-divider{border-color:#61472e;}.fusion-button.button-4{width:auto;}\n\t</style>\n\t\t<a class=\"fusion-button button-flat button-square button-large button-default button-4 gather-lead-button\" data-location-id=\"cb6pbb9f\" target=\"_self\">\n\t\t\t<span class=\"fusion-button-text\">Book An Event</span>\n\t</a>\n</div>\n",
+			"resetFloorplans",
+			"clearAndCloseAllFloorplans",
+			"limit",
+			"nubmerOfRow",
+			"nubmerRow",
+			"r",
+			"c",
+			"rowow]",
+			"[r",
+			"r",
+			"c",
+			"[c]",
+			"c",
+			"[r]",
+			"nr",
+			"r",
+			"NUM",
+			"GRID",
+			"<div class=\"fusion-button-wrapper fusion-aligncenter\"><style type=\"text/css\" scoped=\"scoped\">.fusion-button.button-4 .fusion-button-text, .fusion-button.button-4 i {color:#946d46;}.fusion-button.button-4 {border-width:1px;border-color:#946d46;}.fusion-button.button-4 .fusion-button-icon-divider{border-color:#946d46;}.fusion-button.button-4:hover .fusion-button-text, .fusion-button.button-4:hover i,.fusion-button.button-4:focus .fusion-button-text, .fusion-button.button-4:focus i,.fusion-button.button-4:active .fusion-button-text, .fusion-button.button-4:active{color:#61472e;}.fusion-button.button-4:hover, .fusion-button.button-4:focus, .fusion-button.button-4:active{border-width:1px;border-color:#61472e;}.fusion-button.button-4:hover .fusion-button-icon-divider, .fusion-button.button-4:hover .fusion-button-icon-divider, .fusion-button.button-4:active .fusion-button-icon-divider{border-color:#61472e;}.fusion-button.button-4{width:auto;}</style><a class=\"fusion-button button-flat button-square button-large button-default button-4\" target=\"_self\" href=\"#\" data-toggle=\"modal\" data-target=\".fusion-modal.open-table-modal\"><span class=\"fusion-button-text\">Reservations</span></a></div>",
+			"sion-button button-flat button-square button-xlarge ",
+			"utton-flat button-square button-xlarge button-default butto",
+			"This is how much you'll save living here compared to:",
+			"This is how much you'll save when you live here compated to:",
+			"c l",
+			"mobile-header",
+			"ow-header",
+			"text-uppercase",
+			"text-center",
+			"text-center ",
+			"thead",
+			"table-header",
+			"table",
+			"%;\n",
+			"<th class=\"table-header\"><strong>Living at<br/>Nine on the Hudson<br/>compared to:</strong></th>",
+			"Your Savings<",
+			"Your Savings",
+			"our Savings\tLiving at",
+			"text-blue",
+			"gatherhere.c",
+			"gather",
+			"gather-loader",
+			"gatherh",
+			"gatherHere",
+			",",
+			"on OpenTable.co",
+			"OpenTable.com"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"RECEIVE_EMPLOYEES",
+			"FETCH_EMPLOYEES_ERROR",
+			"FETCH_EMPLOYEES_START"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/layouts/main.static.hbs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 839,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Handlebars/grammars/Handlebars.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/pages/styleguide/index.static.hbs",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 7360,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Handlebars/grammars/Handlebars.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/pages/index.static.hbs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4711,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Handlebars/grammars/Handlebars.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 3,
+					"file": "brunch-config.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1948,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/assets/robots.txt",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 72,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "TonicWebsite.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"home.hbs.js",
+				"app/templates/home.hbs.js"
+			],
+			[
+				"footer",
+				"Tonic-Website/source/layouts/partials/_footer.html.haml"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 226.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

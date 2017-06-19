@@ -1,0 +1,213 @@
+html {
+  font-size: 62.5%;
+  text-size-adjust: 100%;
+}
+body {
+  font-weight: $normal;
+  font-size: 1.5rem;
+  line-height: 2.8rem;
+  font-family: $roboto;
+  color: $black;
+  letter-spacing: 1px;
+  @media #{$min-768} {
+    font-size: 1.6rem;
+    line-height: 3.0rem;
+  }
+  @media #{$min-1280} {
+    font-size: 1.8rem;
+    line-height: 3.3rem;
+  }
+}
+::selection {
+  background: rgba(100, 255, 218, .5);
+}
+::-moz-selection {
+  background: rgba(100, 255, 218, .5);
+}
+h1, h2, h3, h4, h5, h6, p {
+  margin-top: 0;
+  margin-bottom: 2rem;
+  &.homepage-header-margin {
+    margin-bottom: 1rem;
+  }
+  &.case-study-header-margin {
+    margin-bottom: 0;
+  }
+}
+h1 {
+  font-weight: $medium;
+  font-size: 2.4rem;
+  line-height: 3.2rem;
+  @media #{$min-768} {
+    font-size: 3.0rem;
+    line-height: 4.0rem;
+  }
+  @media #{$min-1280} {
+    font-size: 3.6rem;
+    line-height: 4.8rem;
+  }
+}
+h2 {
+  font-weight: $medium;
+  font-size: 1.8rem;
+  line-height: 2.4rem;
+  @media #{$min-768} {
+    font-size: 2.0rem;
+    line-height: 2.7rem;
+  }
+  @media #{$min-1280} {
+    font-size: 2.3rem;
+    line-height: 3.1rem;
+  }
+}
+h3 {
+  font-weight: $normal;
+  font-size: 1.7rem;
+  line-height: 2.8rem;
+  @media #{$min-768} {
+    font-size: 2.1rem;
+    line-height: 3.5rem;
+  }
+  @media #{$min-1280} {
+    font-size: 2.5rem;
+    line-height: 4.2rem;
+  }
+}
+h4 {
+  font-weight: $medium;
+  font-size: 1.7rem;
+  line-height: 2.8rem;
+  @media #{$min-768} {
+    font-size: 1.8rem;
+    line-height: 3.0rem;
+  }
+  @media #{$min-1280} {
+    font-size: 2.0rem;
+    line-height: 3.3rem;
+  }
+}
+h5 {
+  font-weight: $medium;
+  font-size: 1.5rem;
+  line-height: 2.2rem;
+  @media #{$min-768} {
+    font-size: 1.5rem;
+    line-height: 2.2rem;
+  }
+  @media #{$min-1280} {
+    font-size: 1.5rem;
+    line-height: 2.2rem;
+  }
+}
+p {
+  font-weight: $normal;
+  font-size: 1.5rem;
+  line-height: 2.8rem;
+  @media #{$min-768} {
+    font-size: 1.6rem;
+    line-height: 3.0rem;
+  }
+  @media #{$min-1280} {
+    font-size: 1.8rem;
+    line-height: 3.3rem;
+  }
+}
+.link {
+  display: inline-block;
+}
+.link,
+a {
+  cursor: pointer;
+  font-weight: $normal;
+  font-size: 1.5rem;
+  line-height: 2.8rem;
+  text-decoration: none;
+  padding-bottom: 5px;
+  color: inherit;
+  position: relative;
+}
+.animated-underline {
+  border-bottom: 1px solid rgba(66, 66, 66, .25); // $black = rgba(66,66,66)
+  &:before,
+  &:after {
+    content: '';
+    display: block;
+    position: absolute;
+    bottom: -1px;
+    height: 1px;
+    width: 0;
+  }
+  &:before {
+    left: 0;
+    transition: width .25s ease;
+  }
+  &:after {
+    right: 0;
+    background-color: $black;
+    transition: width .25s ease;
+  }
+  &:hover:before {
+    width: 100%;
+    background-color: $black;
+  }
+  &:hover:after {
+    width: 100%;
+    background-color: transparent !important;
+  }
+}
+ul ul, ul ol, ol ol, ol ul {
+  margin: 1.5rem 0 1.5rem 3rem;
+  font-size: 90%;
+}
+li {
+  margin-bottom: 1rem;
+}
+textarea,
+select,
+input {
+  font-weight: $normal;
+  font-size: 1.6rem;
+  line-height: 2.4rem;
+}
+hr {
+  background: $black;
+  border: none;
+  height: 2px;
+  margin: 0 0 40px 0;
+  width: 48px;
+  text-align: left;
+}
+sup {
+  top: -1rem;
+  font-size: 60%;
+  line-height: 0;
+  position: relative;
+  font-weight: $medium;
+}
+.caption-copy {
+  font-weight: $normal;
+  font-size: 1.3rem;
+  line-height: 2.0rem;
+}
+.list-copy {
+  font-weight: $normal;
+  font-size: 1.5rem;
+  line-height: 3.0rem;
+}
+.error-copy {
+  font-weight: $normal;
+  font-size: 1.1rem;
+  line-height: 1.6rem;
+  color: $error;
+}
+// SET SPECIFIC COLOR
+//-----------------------------------------------------------------
+.black-text {
+  color: $black;
+}
+.gray-text {
+  color: $medium-gray;
+}
+.white-text {
+  color: $white;
+}
