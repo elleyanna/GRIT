@@ -5,7 +5,7 @@
   "version": "0.0.1",
   "repository": {
     "type": "git",
-    "url": "https://github.com/kgcreative/brunch-with-cocktails.git"
+    "url": "https://github.com/dmgctrl/jjhws-c4t-web"
   },
   "scripts": {
     "start": "brunch watch --server",
