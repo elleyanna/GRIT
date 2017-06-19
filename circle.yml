@@ -15,12 +15,6 @@ deployment:
     commands:
       - aws s3 sync public s3://${S3_BUCKET_DEVELOPMENT} --delete
       - aws s3api put-bucket-website --bucket ${S3_BUCKET_DEVELOPMENT} --website-configuration file://s3-bucket-config.json
-  staging:
-    branch: staging
-    commands:
-      - aws s3 sync public s3://${S3_BUCKET_STAGING} --delete
-      - aws cloudfront create-invalidation --distribution-id ${CF_DISTRIBUTION_STAGING} --paths '/*'
-      - aws s3api put-bucket-website --bucket ${S3_BUCKET_STAGING} --website-configuration file://s3-bucket-config.json
   production:
     branch: master
     commands:
