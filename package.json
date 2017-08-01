@@ -1,11 +1,11 @@
 {
-  "name": "care-4-today",
-  "description": "Care4Today",
+  "name": "grit",
+  "description": "GRIT",
   "author": "",
   "version": "0.0.1",
   "repository": {
     "type": "git",
-    "url": "https://github.com/dmgctrl/jjhws-c4t-web"
+    "url": "https://github.com/elleanna/GRIT"
   },
   "scripts": {
     "start": "brunch watch --server",
