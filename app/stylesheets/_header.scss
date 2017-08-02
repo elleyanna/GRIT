@@ -1,7 +1,16 @@
 .header {
-  height: 400px;
-  background-color: $teal;
+  background: repeating-linear-gradient(
+    45deg,
+    #606dbc,
+    #606dbc 40px,
+    #465298 40px,
+    #465298 80px
+  );
+  height: 200px;
   position: relative;
+  @media #{$min-768} {
+    height: 400px;
+  }
   .container {
     position: static;
   }
@@ -12,4 +21,18 @@
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
+}
+.profile-picture {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  margin-bottom: 40px;
+  @media #{$min-768} {
+    width: 200px;
+    height: 200px;
+  }
 }
