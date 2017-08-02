@@ -83,7 +83,7 @@ exports.config = {
     }
   },
   server: {
-    port: 1989,
+    port: 1111,
     hostname: '0.0.0.0'
   }
 };
