@@ -2,10 +2,10 @@
   position: relative;
   background: repeating-linear-gradient(
     45deg,
-    #606dbc,
-    #606dbc 40px,
-    #465298 40px,
-    #465298 80px
+    $blue-purple,
+    $blue-purple 40px,
+    $light-purple 40px,
+    $light-purple 80px
   );
   height: 100px;
 }
