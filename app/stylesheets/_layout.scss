@@ -1,64 +1,64 @@
-// LAYOUT
-//-----------------------------------------------------------------
-html, body {
-  width: 100%;
-  height: auto;
-  margin: 0;
-  padding: 0;
-}
-.section {
-  position: relative;
-  width: 100%;
-  padding-top: 70px;
-  @media #{$min-768} {
-    padding-top: 140px;
-  }
-}
-.container {
-  width: 100%;
-  position: relative;
-  margin: 0 auto;
-  box-sizing: border-box;
-  max-width: $container-max-width;
-  padding: 0 20px;
-  @media #{$min-768} {
-    padding: 0 60px;
-  }
-  &:after {
-    margin: 0;
-    content: "";
-    display: table;
-    clear: both;
-  }
-}
-.row {
-  &:after {
-    margin: 0;
-    content: "";
-    display: table;
-    clear: both;
-  }
-}
-.column, .columns {
-  width: 100%;
-  float: left;
-  margin-bottom: 70px;
-  @media #{$min-768} {
-    margin-bottom: 100px;
-  }
-  & > *:last-child {
-    margin-bottom: 0;
-  }
-  @media #{$min-1024} {
-    margin-left: 4%;
-    &:first-child {
-      margin-left: 0;
-    }
-  }
-}
-@media #{$min-768} {
-  .four.columns {
-    width: 30.6666666667%;
-  }
-}
+// // LAYOUT
+// //-----------------------------------------------------------------
+// html, body {
+//   width: 100%;
+//   height: auto;
+//   margin: 0;
+//   padding: 0;
+// }
+// .section {
+//   position: relative;
+//   width: 100%;
+//   padding-top: 70px;
+//   @media #{$min-768} {
+//     padding-top: 140px;
+//   }
+// }
+// .container {
+//   width: 100%;
+//   position: relative;
+//   margin: 0 auto;
+//   box-sizing: border-box;
+//   max-width: $container-max-width;
+//   padding: 0 20px;
+//   @media #{$min-768} {
+//     padding: 0 60px;
+//   }
+//   &:after {
+//     margin: 0;
+//     content: "";
+//     display: table;
+//     clear: both;
+//   }
+// }
+// .row {
+//   &:after {
+//     margin: 0;
+//     content: "";
+//     display: table;
+//     clear: both;
+//   }
+// }
+// .column, .columns {
+//   width: 100%;
+//   float: left;
+//   margin-bottom: 70px;
+//   @media #{$min-768} {
+//     margin-bottom: 100px;
+//   }
+//   & > *:last-child {
+//     margin-bottom: 0;
+//   }
+//   @media #{$min-1024} {
+//     margin-left: 4%;
+//     &:first-child {
+//       margin-left: 0;
+//     }
+//   }
+// }
+// @media #{$min-768} {
+//   .four.columns {
+//     width: 30.6666666667%;
+//   }
+// }
 
