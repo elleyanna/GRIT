@@ -7,7 +7,6 @@ body {
   line-height: 2.8rem;
   font-family: $karbon-regular;
   letter-spacing: 1px;
-  color: $mine-shaft;
 }
 h1, h2, h3, h4, h5, h6, p {
   margin-top: 0;
@@ -66,7 +65,6 @@ p {
 }
 a {
   cursor: pointer;
-  color: $denim;
   display: inline-block;
 }
 ul ul, ul ol, ol ol, ol ul {
@@ -95,25 +93,5 @@ strong {
 }
 .center-vertically {
   text-align: center;
-}
-// SET SPECIFIC COLOR
-//-----------------------------------------------------------------
-.gray-text {
-  color: $gray;
-}
-.white-text {
-  color: $white;
-}
-.blue-text {
-  color: $cerulean;
-}
-.purple-text {
-  color: $eminence;
-}
-.green-text {
-  color: $apple;
-}
-.orange-text {
-  color: $zest;
 }
 

@@ -3,23 +3,7 @@
 $white: #FFFFFF;
 $black: #000000;
 $teal: #9acbcb;
-
-// GRAYS
-$gray: #767676;
-$mine-shaft: #333333;
-
-// BLUES
-$denim: #1c75bc;
-$cerulean: #00a0df;
-
-// PURPLE
-$eminence: #7e2e7a;
-
-// GREEN
-$apple: #63b44a;
-
-// ORANGE
-$zest: #f37820;
+$purple: #7e2e7a;
 
 // FONTS
 //-----------------------------------------------------------------
@@ -46,12 +30,3 @@ $min-1280: "only screen and (min-width : 1280px)";
 $min-1440: "only screen and (min-width : 1440px)";
 $retina: "only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2/1), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx)";
 $container-max-width: 1400px;
-
-// Mixins
-//-----------------------------------------------------------------
-@mixin retina-background-image($file, $type) {
-  background-image: url($file + '.' + $type);
-  @media #{$retina} {
-    background-image: url($file + '@2x.' + $type);
-  }
-}

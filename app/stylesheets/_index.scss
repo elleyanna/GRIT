@@ -10,3 +10,33 @@
   background-position: center;
   background-repeat: no-repeat;
 }
+.link-icon {
+  width: 210px;
+  height: 210px;
+  border-radius: 50%;
+}
+.website-header {
+  font-family: $lobster;
+  color: $teal;
+}
+.link-container {
+  position: relative;
+  a {
+    opacity: .4;
+    .link-header {
+      opacity: 1;
+    }
+    &:hover {
+      opacity: 1;
+    }
+  }
+}
+.link-header {
+  font-family: $lobster;
+  color: $purple;
+  text-shadow: 2px 2px $white;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
