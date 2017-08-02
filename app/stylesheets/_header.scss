@@ -1,0 +1,15 @@
+.header {
+  height: 400px;
+  background-color: $teal;
+  position: relative;
+  .container {
+    position: static;
+  }
+}
+.name-header {
+  color: $white;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}

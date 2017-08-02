@@ -17,7 +17,7 @@
 * Plugin and module configurations are added to brunch-config.js
 
 ### Run:
-* `npm start` - Runs the `brunch watch --server --port 1111` command to watch the project with continuous rebuild. This will also launch HTTP server with [pushState](https://developer.mozilla.org/en-US/docs/Web/Guide/API/DOM/Manipulating_the_browser_history) at [localhost:1989](http://localhost:1989).
+* `npm start` - Runs the `brunch watch --server --port 7777` command to watch the project with continuous rebuild. This will also launch HTTP server with [pushState](https://developer.mozilla.org/en-US/docs/Web/Guide/API/DOM/Manipulating_the_browser_history) at [localhost:7777](http://localhost:7777).
 * `brunch build --production` builds the minified project for production
 
 ### Learn:

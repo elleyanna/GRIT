@@ -2,32 +2,34 @@
 //-----------------------------------------------------------------
 $white: #FFFFFF;
 $black: #000000;
-$light-gray: #F5F5F6;
-$medium-gray: #888888;
-$dark-gray: #424242;
-$blue-gray-800: #37474F;
-$blue-gray-500: #607D8B;
-$teal-a200: #64FFDA;
-$error: #FB596D;
+$teal: #9acbcb;
 
-$blue: #0a88cb;
+// GRAYS
+$gray: #767676;
+$mine-shaft: #333333;
+
+// BLUES
+$denim: #1c75bc;
+$cerulean: #00a0df;
+
+// PURPLE
+$eminence: #7e2e7a;
+
+// GREEN
+$apple: #63b44a;
+
+// ORANGE
+$zest: #f37820;
 
 // FONTS
 //-----------------------------------------------------------------
-$karbon-bold: 'Karbon-Bold', sans-serif;
-$karbon-bold-italic: 'Karbon-BoldItalic', sans-serif;
-$karbon-hairline: 'Karbon-Hairline', sans-serif;
-$karbon-hairline-italic: 'Karbon-HairlineItalic', sans-serif;
+$lobster: 'Lobster', cursive;
 $karbon-light: 'Karbon-Light', sans-serif;
 $karbon-light-italic: 'Karbon-LightItalic', sans-serif;
 $karbon-medium: 'Karbon-Medium', sans-serif;
 $karbon-medium-italic: 'Karbon-MediumItalic', sans-serif;
 $karbon-regular: 'Karbon-Regular', sans-serif;
 $karbon-regular-italic: 'Karbon-RegularItalic', sans-serif;
-$karbon-semibold: 'Karbon-Semibold', sans-serif;
-$karbon-semibold-italic: 'Karbon-SemiboldItalic', sans-serif;
-$karbon-thin: 'Karbon-Thin', sans-serif;
-$karbon-thin-italic: 'Karbon-ThinItalic', sans-serif;
 
 // FONT WEIGHTS
 //-----------------------------------------------------------------
@@ -42,9 +44,8 @@ $min-768: "only screen and (min-width : 768px)";
 $min-1024: "only screen and (min-width : 1024px)";
 $min-1280: "only screen and (min-width : 1280px)";
 $min-1440: "only screen and (min-width : 1440px)";
-$retina: "only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2/1), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx), only screen and (min-width : 1440px)";
+$retina: "only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2/1), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx)";
 $container-max-width: 1400px;
-$container-condensed-max-width: 944px;
 
 // Mixins
 //-----------------------------------------------------------------

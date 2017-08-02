@@ -1,6 +1,6 @@
 {
   "name": "grit",
-  "description": "GRIT",
+  "description": "Grit - Girls Rock In Tech",
   "author": "",
   "version": "0.0.1",
   "repository": {
@@ -11,12 +11,10 @@
     "start": "brunch watch --server",
     "build": "brunch build --production"
   },
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "es6-promise": "^4",
     "babel-plugin-es6-promise": "^1.1.1",
-    "jquery": "^3.1.1"
-  },
-  "devDependencies": {
     "auto-reload-brunch": "^2.0.5",
     "autoprefixer": "^6.5.1",
     "babel-brunch": "~6.0.0",

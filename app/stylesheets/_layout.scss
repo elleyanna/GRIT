@@ -6,26 +6,26 @@ html, body {
   margin: 0;
   padding: 0;
 }
-section {
+.section {
   position: relative;
   width: 100%;
-  padding-top: 64px;
+  padding-top: 70px;
   @media #{$min-768} {
-    padding-top: 128px;
+    padding-top: 140px;
   }
   &.no-inner-spacing {
     padding-top: 0;
   }
 }
-.container-condensed,
 .container {
   width: 100%;
   position: relative;
   margin: 0 auto;
-  padding: 0 32px;
   box-sizing: border-box;
+  max-width: $container-max-width;
+  padding: 0 20px;
   @media #{$min-768} {
-    padding: 0 64px;
+    padding: 0 60px;
   }
   &:after {
     margin: 0;
@@ -33,15 +33,6 @@ section {
     display: table;
     clear: both;
   }
-}
-.container {
-  max-width: $container-max-width;
-}
-.container-condensed {
-  max-width: $container-condensed-max-width;
-}
-.full-width-max-height {
-  max-height: 720px;
 }
 .row {
   &:after {
@@ -54,15 +45,9 @@ section {
 .column, .columns {
   width: 100%;
   float: left;
-  margin-bottom: 64px;
+  margin-bottom: 70px;
   @media #{$min-768} {
-    margin-bottom: 128px;
-    &.condensed-desktop-margin {
-      margin-bottom: 64px;
-    }
-  }
-  &.no-margin-bottom {
-    margin-bottom: 0;
+    margin-bottom: 140px;
   }
   & > *:last-child {
     margin-bottom: 0;
@@ -163,48 +148,6 @@ section {
     margin-left: 95.3333333333%;
   }
 }
-// RATIO BOX BACKGROUND IMAGE
-//-----------------------------------------------------------------
-.ratio-box-sixteen-nine,
-.ratio-box-responsive {
-  position: relative;
-}
-.ratio-box-sixteen-nine:before {
-  display: block;
-  content: "";
-  width: 100%;
-  padding-top: 56.25%;
-}
-.ratio-box-responsive:before {
-  content: "";
-  display: block;
-  padding-top: 133.33%;
-  @media #{$min-768} {
-    padding-top: 100%;
-  }
-  @media #{$min-1024} {
-    padding-top: 56.25%;
-  }
-}
-.ratio-box-responsive-content {
-  position: absolute;
-  top: 0;
-  left: 0;
-  bottom: 0;
-  right: 0;
-  .row {
-    position: absolute;
-    top: 50%;
-    transform: translateY(-50%);
-  }
-}
-.ratio-box-sixteen-nine-content {
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-}
 // CLEAR FIX
 //-----------------------------------------------------------------
 .clear-fix:after {
@@ -217,11 +160,10 @@ section {
 .white-background {
   background: $white;
 }
-.gray-background {
-  background: $light-gray;
-}
 .black-section {
   background: $black;
   color: $white;
 }
-
+.blue-background {
+  background: $cerulean;
+}

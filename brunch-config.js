@@ -9,14 +9,10 @@ exports.config = {
   },
   paths: {
     "public": 'public',
-    watched: ['app', 'vendor']
+    watched: ['app']
   },
   npm: {
     enabled: true,
-    globals: {
-      '$': 'jquery',
-      'jQuery': 'jquery'
-    }
   },
   files: {
     javascripts: {
@@ -25,7 +21,10 @@ exports.config = {
       }
     },
     stylesheets: {
-      joinTo: 'css/style.css'
+      joinTo: {
+        'css/style_ie.css': 'app/stylesheets/style_ie.scss',
+        'css/style.css': 'app/stylesheets/style.scss'
+      }
     }
   },
   plugins: {
@@ -83,7 +82,7 @@ exports.config = {
     }
   },
   server: {
-    port: 1111,
+    port: 7777,
     hostname: '0.0.0.0'
   }
 };
