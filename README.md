@@ -1,4 +1,4 @@
-# Care4Today
+# GRIT - Girls Rock In Tech
 
 * This HTML5 application, built with [Brunch](http://brunch.io).
 
@@ -9,7 +9,7 @@
 
 ### Initialize
 * Once Node.js and Brunch are installed,
-* Clone this git repo `git@github.com:dmgctrl/jjhws-c4t-web.git`
+* Clone this git repo `git@github.com:elleanna/GRIT.git`
 * Run `npm install` to install app dependencies and brunch plugins
 
 ### Configure:
