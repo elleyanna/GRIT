@@ -1,0 +1,70 @@
+---
+title: GRIT
+
+og-title: GRIT
+og-description: Girls Rocking In Tech
+og-url:
+
+page-class: grit-homepage
+_options:
+  layout: app/layouts/main.static.hbs
+
+---
+<div class="section center-vertically">
+  <div class="container">
+    <div class="row">
+      <div class="twelve columns">
+        <h3>NICKNAME</h3>
+        <P>NANA</P>
+        <h3>HOBBIES</h3>
+        <p>DANCING &bull; READING &bull; WRITING BOOKS</p>
+        <h3>INTERESTS</h3>
+        <p>MUSIC &bull; VEGGIES &bull; SLEEPING</p>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="full-width-image" style="background-image:url(/images/wide-pic.png)"></div>
+<div class="section center-vertically">
+  <div class="container">
+    <div class="row">
+      <div class="twelve columns">
+        <h1 class="website-header">Favorite Websites</h1>
+      </div>
+    </div>
+    <div class="row">
+      <div class="four columns">
+        <div class="link-container">
+          <a href="http://hackertyper.net/"><img class="link-icon" src="/images/link-one.jpg" /></a>
+          <h2 class="link-header">hackertyper</h2>
+        </div>
+      </div>
+      <div class="four columns">
+        <div class="link-container">
+          <a href="https://codepen.io/"><img class="link-icon" src="/images/link-two.jpg" /></a>
+          <h2 class="link-header">codepen</h2>
+        </div>
+      </div>
+      <div class="four columns">
+        <div class="link-container">
+          <a href="https://www.codecademy.com/"><img class="link-icon" src="/images/link-three.jpg" /></a>
+          <h2 class="link-header">codeacademy</h2>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+2™
